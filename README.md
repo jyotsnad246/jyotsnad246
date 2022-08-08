@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jyotsnad24" target="blank"><img src="https://img.shields.io/twitter/follow/jyotsnad24?logo=twitter&style=for-the-badge" alt="jyotsnad24" /></a> </p>
 
-- 🔭 I’m currently working an MLH Prep Fellow
+- 🔭 I’m currently a MLH Prep Fellow
 
 - 🌱 I’m currently learning **MERN stack, Machine Learning**
 
