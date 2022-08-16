@@ -49,8 +49,3 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/jyotsnad246/jyotsnad246/blob/output/snake.svg" alt="Snake animation" />
-
-###
