@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Hackathons and Kaggle Competitions<br>🤝 I’m looking for help with Computer Vision<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about Python<br>⚡ Fact Destiny is for losers. It’s just a stupid excuse to wait for things to happen instead of making them happen. 
+🔭 I’m currently working on Machine Learning<br>👯 I’m looking to collaborate on Hackathons and Kaggle Competitions<br>🤝 I’m looking for help with Computer Vision<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about Python<br>⚡ Fact : Destiny is for losers. It’s just a stupid excuse to wait for things to happen instead of making them happen. 
 
 
 ## 🌐 Socials:
