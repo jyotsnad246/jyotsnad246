@@ -13,9 +13,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jyotsnad246&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnad246&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<a href="https://makers.appwrite.io/jyotsnad246">
+    <img src="https://appwrite.io/cards/makers/jyotsnad246" alt="jyotsnad246's Maker Card" width="400" height="250"/>
+</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jyotsnad246&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=jyotsnad246&icon=5&color=5)](https://visitcount.itsvg.in)
