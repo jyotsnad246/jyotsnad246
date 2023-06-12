@@ -1,3 +1,8 @@
+Hi 👋 My name is Jyotsna
+========================
+
+![coding](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)
+
 # About Me:
 🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on Hackathons and Kaggle Competitions<br>🤝 I’m looking for help with Computer Vision<br>🌱 I’m currently learning DSA and Machine Learning<br>💬 Ask me about Python<br>⚡ Random Fact : Destiny is for losers. It’s just a stupid excuse to wait for things to happen instead of making them happen. 
 
