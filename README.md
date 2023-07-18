@@ -1,12 +1,23 @@
-Hi 👋 I am Jyotsna
-========================
+<img src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif" align="center" style="width: 100%" />  
+  
+<br/>  
 
+## <div align="center">I'm Jyotsna, a budding Machine Learning Engineer 👨‍💻🚀</div>  
+  
 
-![coding](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
+- 🔭 I’m currently working on my Machine Learning Skills  
+  
 
-# About Me:
-🔭 I’m currently working on a Research Project<br>👯 I’m looking to collaborate on End-to-End Machine Learning Projects and Kaggle Competitions<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning MySQL and PowerBI<br>⚡ Random Fact : Destiny is for losers. It’s just a stupid excuse to wait for things to happen instead of making them happen. 
+- 🌱 My interest lies at the intersection of Machine Learning, Product and Finance  
+  
 
+- ❓ Ask me about anything related to Python and Deep Learning  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotsna246)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jyotsnay24)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jyotsnad24) 
