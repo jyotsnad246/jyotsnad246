@@ -27,8 +27,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jyotsnad246&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jyotsnad246&theme=dracula&hide_border=false)<br/>
+![jyotsnad246's Stats](https://github-readme-stats.vercel.app/api?username=jyotsnad246&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![jyotsnad246's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotsnad246&theme=radical&hide_border=false)
+![jyotsnad246's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnad246&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotsnad246&label=Profile%20views&color=0e75b6&style=flat" alt="jyotsnad246" /> </p>
