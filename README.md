@@ -39,7 +39,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jyotsnad246&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="jyotsnad246" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsnad246&theme=radical&hide_border=false" alt="jyotsnad246" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnad246&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="jyotsnad246" /></p>
 
 
 
