@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" align="center" style="width: 100%" />  
+<img align="center" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" align="center" style="width: 70%" />  
 <h1 align="center">Hi 👋, I'm Jyotsna</h1>
 <h3 align="center">A passionate Software Engineer 👨‍💻🚀</h3>
 </div>
