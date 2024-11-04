@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" align="center" style="width: 70%" />  
 <h1 align="center">Hi 👋, I'm Jyotsna</h1>
-<h3 align="center">A passionate Software Engineer 👨‍💻🚀</h3>
+<h3 align="center">Software Engineer 👨‍💻</h3>
 </div>
 <hr>
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M6oUOfZRrTkTjk4kotQGjWidLw3hjYvV/view?usp=sharing)
 
-- ⚡ Random fact **Everything in my life has something to do with coffee.**
+- ⚡ Random fact **On a quest for the perfect espresso, because life’s too short for weak coffee! ☕**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
