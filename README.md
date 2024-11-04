@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M6oUOfZRrTkTjk4kotQGjWidLw3hjYvV/view?usp=sharing)
 
-- ⚡ Random fact **On a quest for the perfect espresso, because life’s too short for weak coffee! ☕**
+- ⚡ Random fact **I drink straight up double shot espresso, because life’s too short for weak coffee! ☕**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
